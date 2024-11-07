@@ -1,1 +1,3 @@
 # IBManalyzed
+
+Cognos Abalytics #SQL
